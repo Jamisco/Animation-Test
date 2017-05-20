@@ -1,0 +1,9 @@
+c:\users\mufuh\documents\visual studio 2017\Projects\Animation-Test\Animation-Test\bin\Debug\Animation-Test.exe.config
+c:\users\mufuh\documents\visual studio 2017\Projects\Animation-Test\Animation-Test\bin\Debug\Animation-Test.exe
+c:\users\mufuh\documents\visual studio 2017\Projects\Animation-Test\Animation-Test\bin\Debug\Animation-Test.pdb
+c:\users\mufuh\documents\visual studio 2017\Projects\Animation-Test\Animation-Test\obj\Debug\Animation-Test.csprojResolveAssemblyReference.cache
+c:\users\mufuh\documents\visual studio 2017\Projects\Animation-Test\Animation-Test\obj\Debug\Animation_Test.Form1.resources
+c:\users\mufuh\documents\visual studio 2017\Projects\Animation-Test\Animation-Test\obj\Debug\Animation_Test.Properties.Resources.resources
+c:\users\mufuh\documents\visual studio 2017\Projects\Animation-Test\Animation-Test\obj\Debug\Animation-Test.csproj.GenerateResource.Cache
+c:\users\mufuh\documents\visual studio 2017\Projects\Animation-Test\Animation-Test\obj\Debug\Animation-Test.exe
+c:\users\mufuh\documents\visual studio 2017\Projects\Animation-Test\Animation-Test\obj\Debug\Animation-Test.pdb
